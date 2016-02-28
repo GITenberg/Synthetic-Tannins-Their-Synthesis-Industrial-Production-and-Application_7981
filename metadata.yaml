@@ -1,0 +1,26 @@
+_repo: Synthetic-Tannins-Their-Synthesis-Industrial-Production-and-Application_7981
+contributor:
+  translator:
+    agent_name: Enna, Fini Georges Alexander
+    gutenberg_agent_id: '40779'
+    url: http://www.gutenberg.org/2009/agents/40779
+creator:
+  author:
+    agent_name: Grasser, Georg
+    birthdate: 1883
+    gutenberg_agent_id: '2611'
+    url: http://www.gutenberg.org/2009/agents/2611
+description: ''
+gutenberg_issued: '2005-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7981'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tannins'
+- !lcc 'TS'
+title: Synthetic Tannins, Their Synthesis, Industrial Production and Application
+url: http://www.gutenberg.org/ebooks/7981
